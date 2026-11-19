@@ -4,11 +4,11 @@
 
 # 18 November 2026 — One Day in Pictures
 
-A front-page image summing up the world news of Wednesday, 18 November 2026: Trump lands in Manila for Quad talks ahead of a China visit, Ukraine strikes the Crimean Bridge for a second day, Iranian drones target a US radar in Bahrain, Britain sanctions West Bank settlement firms, and Cyclone Akvan bears down on India — plus the day's other headlines in the footer ticker.
+A front-page image summing up the world news of Wednesday, 18 November 2026: Xi and Putin meet in Shenzhen as APEC opens and a three-way summit with Trump is set for Thursday, the US and Iran trade blows across the Gulf, Ukraine strikes the Crimean Bridge for a second day, Cyclone Akvan bears down on India, and Peltola's Alaska win hands Democrats a 56–44 Senate majority — plus the day's other headlines in the footer ticker.
 
 ## The image
 
-`entry.png` (1024×1024, PNG) is a newspaper front page drawn for this day: a masthead naming the date, a lead story on Manila, and four panels covering war, the Middle East, Europe and weather, each with a short headline and one-line summary so the day reads at a glance.
+`entry.png` (1024×1024, PNG) is a newspaper front page drawn for this day: a masthead naming the date, a Shenzhen skyline with the three leaders' flags, a lead story on the APEC summit, and four panels covering the Gulf, Ukraine, the cyclone and the US Senate, each with a short headline and summary so the day reads at a glance.
 
 ## Run
 
