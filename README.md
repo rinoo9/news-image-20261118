@@ -4,11 +4,11 @@
 
 # 18 November 2026 — One Day in Pictures
 
-A front-page image summing up the world news of Wednesday, 18 November 2026: Xi and Putin meet in Shenzhen as APEC opens and a three-way summit with Trump is set for Thursday, the US and Iran trade blows across the Gulf, Ukraine strikes the Crimean Bridge for a second day, Cyclone Akvan bears down on India, and Peltola's Alaska win hands Democrats a 56–44 Senate majority — plus the day's other headlines in the footer ticker.
+A front-page image summing up the world news of Wednesday, 18 November 2026: Trump lands in Shenzhen, greeted by Xi with a hug and shaking Putin's hand at the APEC banquet ahead of historic three-way talks on Thursday; Iran drones target US bases in Bahrain and Kuwait a day after US jets struck Qeshm Island, and the tanker Tara Gas is hit in the Strait of Hormuz; Ukraine's strikes collapse 900 feet of the Crimean Bridge's road span; Cyclone Akvan bears down on Andhra Pradesh; and Peltola's Alaska win — the first Alaska Native in the Senate — hands Democrats a 56–44 majority, their biggest gain since 1958. The footer ticker adds Nvidia's record $115.8bn quarter, Voyager 1 reaching one light-day, the US losing measles-free status, Ebola passing 11,000 cases in Congo, and India–Japan 2+2 talks opening in Tokyo.
 
 ## The image
 
-`entry.png` (1024×1024, PNG) is a newspaper front page drawn for this day: a masthead naming the date, a Shenzhen skyline with the three leaders' flags, a lead story on the APEC summit, and four panels covering the Gulf, Ukraine, the cyclone and the US Senate, each with a short headline and summary so the day reads at a glance.
+`entry.png` (1024×1024, PNG) is a newspaper front page drawn for this day: a masthead naming the date, a Shenzhen skyline with the three leaders' flags, a lead story on Trump's arrival in Shenzhen, and four panels covering the Gulf, Ukraine, the cyclone and the US Senate, each with a short headline and summary so the day reads at a glance. Every story was re-verified against the day's reporting (20 Nov 2026): the Shenzhen greeting, the Gulf strikes and the Tara Gas tanker, the 900-foot bridge collapse, Akvan's forecast landfall, and Peltola's 50.1%–45.8% win.
 
 ## Run
 
